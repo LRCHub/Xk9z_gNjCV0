@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゆこまロマン純情派",
+  "base_artist": "トウカイテイオー (CV. Machico)、ミホノブルボン (CV. 長谷川育美)、トランセンド (CV. 塚田悠衣)、ホッコータルマエ (CV. 菊池紗矢香)、ワンダーアキュート (CV. 須藤叶希)",
+  "createdAt": "2025-12-07T02:54:36.434070Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆこまロマン純情派",
+      "artist": "トウカイテイオー (CV. Machico)、ミホノブルボン (CV. 長谷川育美)、トランセンド (CV. 塚田悠衣)、ホッコータルマエ (CV. 菊池紗矢香)、ワンダーアキュート (CV. 須藤叶希)",
+      "has_synced": false,
+      "path": "select/pl_01_ゆこまロマン純情派_トウカイテイオー_(CV._Machico)、ミホノブルボン_(CV._長谷川育美)、トランセンド_(CV._塚田悠衣)、ホッコータルマエ_(CV._菊池紗矢香.txt"
+    }
+  ]
+}
